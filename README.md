@@ -4,4 +4,4 @@
 
 Currently, I am a student at AGH University of Science and Technology in Cracow.
 
-
+Check out [my page](bartekf4.github.io) for further informations.
